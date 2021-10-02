@@ -1,0 +1,47 @@
+body {
+    width: 70%;
+    margin:auto;
+    margin-top: 3%;
+    text-align: center; 
+    background-color: rgb(240, 240, 240);
+}
+
+.rebody {
+
+    background-color: lightgrey;
+    width: max-content;
+    margin: auto;
+    margin-bottom: 0.2rem;
+    padding: 1rem;
+    border:10px solid black;
+    border-radius: 10px;
+
+}
+
+#LaBoite {
+    border:10px solid black;
+    padding:1em;
+    border-radius: 20px;
+    margin-bottom: 0.7em;
+}
+
+#coolstory {
+    border:10px solid black;
+    border-radius: 20px;
+}
+
+.texte {
+    border:10px solid black;
+    padding:1em;
+    border-radius: 20px;
+    width: max-content;
+    margin: auto;
+    margin-top: 0.7em;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.btn {
+    margin-left: 1em;
+}
